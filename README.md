@@ -6,7 +6,7 @@ A simple Pokédex built with HTML, CSS, and JavaScript — max nostalgia with Ge
 
 -  Search Pokémon by name, sorted by generation.
 -  Displays abilities, types, stats, and more
--  Responsive UI, click on Pokemon icon to load.
+-  Responsive UI, click on Pokeball icon to load.
 -  Nostalgic 5th generation pixel sprites.
 -  Pulls data from the [PokéAPI](https://pokeapi.co)
 

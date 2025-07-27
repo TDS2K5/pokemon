@@ -23,12 +23,20 @@
         align-items: center;
         margin-bottom: 20px;
       }
-      #pokedex-title {
-        font-size: 48px;
-        color: #ffcc00; /* Yellow text */
-        text-shadow: 2px 2px 4px #000000; /* Black shadow */
-        margin-right: 20px;
-      }
+#pokedex-title {
+  font-size: 64px;
+  color: #ffffff;
+  margin-right: 20px;
+  letter-spacing: 3px;
+  animation: pulseGlow 2s infinite alternate;
+  text-shadow:
+    -2px -2px 0 #000,
+     2px -2px 0 #000,
+    -2px  2px 0 #000,
+     2px  2px 0 #000,
+     0px  0px 4px #000; /* slight glow for extra punch */
+}
+
 
       /* CSS Pokéball Fallback */
       #pokeball-fallback {
@@ -85,7 +93,7 @@
 
       /* Search and Generation Selector Styles */
       .search-bar {
-        width: 100%;
+        width: 97%;
         padding: 10px;
         margin-bottom: 20px;
         border: 2px solid #e74c3c; /* Red border */

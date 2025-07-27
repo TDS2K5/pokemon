@@ -1,6 +1,6 @@
 # Pokédex Web App
 
-A simple Pokédex built with HTML, CSS, and JavaScript — max nostalgia with Gen 5 pixel sprites straight from the video games!
+A simple Pokédex built with HTML, CSS, and JavaScript and data fetched from PokeAPI — max nostalgia with Gen 5 pixel sprites straight from the video games!
 
 ## Features
 

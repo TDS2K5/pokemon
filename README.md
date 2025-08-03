@@ -4,11 +4,11 @@ A simple Pokédex built with HTML5, CSS3, JavaScript and data fetched from PokeA
 
 ## Features
 
--  Search Pokémon by name, sorted by generation.
--  Displays abilities, types, stats, and more
--  Responsive UI, click on Pokeball icon to load.
--  Nostalgic 5th generation pixel sprites.
--  Pulls data from the [PokéAPI](https://pokeapi.co)
+- Search Pokémon by name, sorted by generation.
+- Displays abilities, types, stats, and more
+- Responsive UI, click on Pokeball icon to load.
+- Nostalgic 5th generation pixel sprites.
+- Pulls data from the [PokéAPI](https://pokeapi.co)
 
 ## Glance
 
@@ -26,5 +26,6 @@ A simple Pokédex built with HTML5, CSS3, JavaScript and data fetched from PokeA
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourusername/pokedex.git
-   cd pokedex
+   git clone https://github.com/TDS2K5/pokemon.git
+   ```
+
